@@ -48,4 +48,30 @@ class isnt */
 
 }
 
+/* We select all every time. when we select a max-width, after that it applies the changes to the webpage */
 
+
+@media  (max-width: 500px) {
+    body{
+        color: blue;
+    }
+}
+
+.flex-item{
+    width:200px;
+    margin:10px;
+    border: 2px solid #333;
+    background-color: #dfdfdf;
+}
+
+.item-1 {
+    min-height:200px;
+}
+
+.item-2 {
+    min-height:200px;
+}
+
+.item-3 {
+    min-height:200px;
+}
