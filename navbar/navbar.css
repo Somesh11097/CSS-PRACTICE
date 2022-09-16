@@ -1,0 +1,28 @@
+.header{
+    background-color: black;
+    color:beige;
+    font-weight:bold;
+    
+}
+
+.left-header{
+    flot:left;
+    display:flex;
+    align-items: flex-start;
+    
+}
+
+.middle-header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.middle-header > li {
+    text-decoration: none;
+}
+
+li{
+    list-style: none;
+}
