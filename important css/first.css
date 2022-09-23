@@ -6,10 +6,12 @@
 } */
 
 .box{
-    width: 400px;
-    height:400px;
-    background-color: blueviolet;
-    border: 7px solid black;
-    padding: 25px;
+    /* width: 400px;
+    height:400px; */
+    /* background-color: blueviolet; */
+    border: 2px solid black;
+    /* padding: 25px; */
+    padding: 24px 48px ;
+    margin: 16px;
 }
 
