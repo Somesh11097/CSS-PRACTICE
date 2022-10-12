@@ -1,0 +1,40 @@
+html{
+    /* font-size: 62.5%; */
+}
+
+.container{
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: repeat(4, 1fr);
+
+}
+
+.grid1{
+    padding: 2rem;
+    
+    border: 2px solid green;
+}
+
+.grid2{
+    padding: 2rem;
+    
+    border: 2px solid blue;
+}
+
+.grid3{
+    padding: 2rem;
+   
+    border: 2px solid black;
+}
+
+.grid4{
+    padding: 2rem;
+    
+    border: 2px solid yellow;
+}
+
+.grid5{
+    padding: 2rem;
+   
+    border: 2px solid orange;
+}
